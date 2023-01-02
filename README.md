@@ -1,7 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/SebasJan/SebasJan/main/header.png)](https://github.com/SebasJan)
 
-
-Hi there!
 I am a second year Computer science student. I am interested in both front and backend development.
 
 * 🌍  I'm based in The Netherlands
