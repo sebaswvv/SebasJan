@@ -1,4 +1,5 @@
-[![MasterHead]([your image link](https://github.com/SebasJan/SebasJan/blob/main/header.png))]([your GitHub link](https://github.com/SebasJan))
+[![MasterHead](https://raw.githubusercontent.com/SebasJan/SebasJan/main/header.png)](https://github.com/SebasJan))
+
 
 Here are some ideas to get you started:
 
