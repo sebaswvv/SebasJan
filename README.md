@@ -4,7 +4,7 @@ I am a second year Computer science student. I am interested in both front and b
 
 * 🌍  I'm based in The Netherlands
 * ✉️  You can contact me at [690592@student.inholland.nl](mailto:690592@student.inholland.nl)
-* 🧠  I'm learning Springboot 3 for building and API
+* 🧠  I'm learning Springboot 3 for building an API & Data science + Machine Learning
 
 Currently, I am working on:
   -  Projects and assignments from school.
