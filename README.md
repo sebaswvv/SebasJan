@@ -4,7 +4,8 @@ I am a second year Computer science student. I am interested in both front and b
 
 * 🌍  I'm based in The Netherlands
 * ✉️  You can contact me at [690592@student.inholland.nl](mailto:690592@student.inholland.nl)
-* 🧠  I'm learning Springboot 3 for building an API & Data science + Machine Learning
+* 🧠  I'm learning Symfony for building an API & Data science + Machine Learning
+* ‎‍💼  I am a webdeveloper at <a href="https://www.amdax.com" target="_blank" rel="noreferrer">Amdax</a>.
 
 Currently, I am working on:
   -  Projects and assignments from school.
